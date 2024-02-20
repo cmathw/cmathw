@@ -9,7 +9,7 @@ I'm currently conducting research in mechanistic interpretability.
 [![](https://img.shields.io/github/issues-search?label=neelnanda-io/TransformerLens%20PRs&query=is%3Apr+is%3Aclosed+author%3Acmathw+repo%3Aneelnanda-io%2FTransformerLens)](https://github.com/neelnanda-io/TransformerLens/pulls?q=is%3Apr+is%3Aclosed+author%3Acmathw) 
 [![](https://img.shields.io/github/stars/neelnanda-io/TransformerLens?style=flat&label=stars&color=yellow)](https://github.com/neelnanda-io/TransformerLens/pulls?q=is%3Apr+is%3Aclosed+author%3Acmathw)
 
-[![](https://img.shields.io/github/issues-search?label=huggingface/transformers%20PRs&query=is%3Apr+author%3Acmathw+repo%3Ahuggingface%2Ftransformers)](https://github.com//huggingface/transformers/pulls?q=is%3Apr+author%3Acmathw) 
+[![](https://img.shields.io/github/issues-search?label=huggingface/transformers%20PRs&query=is%3Apr+is%3Aclosed+author%3Acmathw+repo%3Ahuggingface%2Ftransformers)](https://github.com//huggingface/transformers/pulls?q=is%3Apr+is%3Aclosed+author%3Acmathw) 
 [![](https://img.shields.io/github/stars/huggingface/transformers?style=flat&label=stars&color=yellow)](https://github.com/huggingface/transformers/pulls?q=is%3Apr+is%3Aclosed+author%3Acmathw)
 
 #### Research:

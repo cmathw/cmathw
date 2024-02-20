@@ -14,7 +14,7 @@ I'm currently conducting research in mechanistic interpretability.
 
 #### Research:
 
-Past work that I have contributed on include:
+Past papers and posts that I have contributed on include:
 
   -  [Structured World Representations in Maze-Solving Transformers](https://arxiv.org/abs/2312.02566) (Accepted to NeurIPS UniReps '23 [Workshop](https://unireps.org/publication/))
   -  [Polysemantic Attention Head in a 4-Layer Transformer](https://www.alignmentforum.org/posts/nuJFTS5iiJKT5G5yh/polysemantic-attention-head-in-a-4-layer-transformer)

@@ -6,7 +6,7 @@ I'm currently conducting research in mechanistic interpretability.
 
 #### OSS Contributions:
 
-Collaborating on an open-source replication of Anthropic's Sleeper Agents [paper](https://arxiv.org/pdf/2401.05566), repo [here](https://github.com/Cadenza-Labs/sleeper-agents).
+Core Contributor: Open-source replication of Anthropic's Sleeper Agents [paper](https://arxiv.org/pdf/2401.05566), repo [here](https://github.com/Cadenza-Labs/sleeper-agents).
 
 [![](https://img.shields.io/github/issues-search?label=TransformerLensOrg/TransformerLens%20PRs&query=is%3Apr+is%3Aclosed+author%3Acmathw+repo%3ATransformerLensOrg%2FTransformerLens)](https://github.com/TransformerLensOrg/TransformerLens/pulls?q=is%3Apr+is%3Aclosed+author%3Acmathw) 
 [![](https://img.shields.io/github/stars/TransformerLensOrg/TransformerLens?style=flat&label=stars&color=yellow)](https://github.com/TransformerLensOrg/TransformerLens/pulls?q=is%3Apr+is%3Aclosed+author%3Acmathw)

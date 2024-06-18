@@ -17,7 +17,7 @@ Core Contributor: Open-source replication of Anthropic's Sleeper Agents [paper](
 #### Research:
 
 Past papers and posts that I have contributed on include:
-  -  [Gated Attention Blocks: Preliminary Progress toward Removing Attention Head Superposition](https://www.lesswrong.com/posts/kzc3qNMsP2xJcxhGn/gated-attention-blocks-preliminary-progress-toward-removing-1) (repo [here](https://github.com/cmathw/gated-attn))
+  -  [Gated Attention Blocks: Preliminary Progress toward Removing Attention Head Superposition](https://www.lesswrong.com/posts/kzc3qNMsP2xJcxhGn/gated-attention-blocks-preliminary-progress-toward-removing-1) (repo [here](https://github.com/cmathw/gated-attn), completed as a part of [MATS 4.0](https://www.matsprogram.org))
   -  [Structured World Representations in Maze-Solving Transformers](https://arxiv.org/abs/2312.02566) (Accepted to NeurIPS UniReps '23 [Workshop](https://unireps.org/publication/))
   -  [Polysemantic Attention Head in a 4-Layer Transformer](https://www.alignmentforum.org/posts/nuJFTS5iiJKT5G5yh/polysemantic-attention-head-in-a-4-layer-transformer)
   -  [A Configurable Library for Generating and Manipulating Maze Datasets](https://arxiv.org/abs/2309.10498)
